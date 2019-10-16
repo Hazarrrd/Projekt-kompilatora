@@ -1,4 +1,4 @@
-# projekt_kompiltora
+# Projekt kompiltora
 Kompilator
 autor : Jan Sieradzki
 
